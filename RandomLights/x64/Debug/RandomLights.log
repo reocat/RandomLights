@@ -1,0 +1,4 @@
+﻿  RandomLights.cpp
+C:\Users\maple\source\repos\RandomLights\RandomLights\RandomLights.cpp(155,23): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\maple\source\repos\RandomLights\RandomLights\RandomLights.cpp(324,28): warning C4129: 's': unrecognized character escape sequence
+  RandomLights.vcxproj -> C:\Users\maple\source\repos\RandomLights\x64\Debug\RandomLights.exe
